@@ -6,7 +6,7 @@ export default function Icons() {
   const linkedinIcon = require('../assets/icons/linkedin-icon.png');
 
   return (
-    <div className="flex justify-center gap-2 mt-2">
+    <div className="flex gap-2 mt-2">
       <a
         href="https://github.com/LeoKirasic"
         target="_blank"
