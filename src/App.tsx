@@ -9,6 +9,7 @@ function App() {
       <Header />
       <About></About>
       <Icons></Icons>
+      <Projects></Projects>
     </div>
   );
 }
