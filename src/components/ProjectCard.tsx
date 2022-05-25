@@ -28,6 +28,8 @@ export default function ProjectCard(props: ProjectProps) {
         <a
           className="flex gap-1 opacity-90 hover:opacity-100"
           href={props.live}
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <img className="" src={internetIcon} alt="" />
           <div className="text-tokyoNightBlue ">Live</div>
@@ -35,6 +37,8 @@ export default function ProjectCard(props: ProjectProps) {
         <a
           className="flex gap-1 opacity-90 hover:opacity-100"
           href={props.repo}
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <img src={githubIcon} alt="" />
           <div className="text-tokyoNightBlue">Github</div>
