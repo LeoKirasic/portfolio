@@ -6,6 +6,9 @@ module.exports = {
         tokyoNightBlue: '#2274A5',
         tokyoNightDeepBlue: '#1a191f',
       },
+      screens: {
+        '3xl': '2000px',
+      },
     },
   },
   plugins: [],
