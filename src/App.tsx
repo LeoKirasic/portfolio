@@ -5,7 +5,7 @@ import Icons from './components/Icons';
 import Projects from './components/Projects';
 function App() {
   return (
-    <div>
+    <div className="flex justify-center items-center flex-col">
       <Header />
       <About></About>
       <Icons></Icons>
