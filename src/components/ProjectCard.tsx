@@ -15,7 +15,7 @@ export default function ProjectCard(props: ProjectProps) {
           alt=""
         />
       </picture>
-      <div className="flex flex-col">
+      <div className="flex flex-col pl-2">
         <div className="text-xl mb-1 2xl:text-3xl text-tokyoNightBlue">
           {props.title}
         </div>
@@ -23,8 +23,8 @@ export default function ProjectCard(props: ProjectProps) {
           Technologies: {props.technologies}
         </div>
       </div>
-      <div>{props.description}</div>
-      <div className="flex gap-2 justify-end 3xl:text-2xl">
+      <div className="pl-2">{props.description}</div>
+      <div className="flex gap-2 justify-end 3xl:text-2xl pr-2">
         <a
           className="flex gap-1 opacity-90 hover:opacity-100"
           href={props.live}
