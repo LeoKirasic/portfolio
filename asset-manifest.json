@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.d66c6724.css",
-    "main.js": "/static/js/main.ef887779.js",
+    "main.css": "/static/css/main.dd0a625c.css",
+    "main.js": "/static/js/main.93bdbee3.js",
     "static/media/waldo.png": "/static/media/waldo.03e4a32fde3b6951771b.png",
     "static/media/suit-store.png": "/static/media/suit-store.452862eaba042752684a.png",
     "static/media/asgard.png": "/static/media/asgard.dd35ab8dd2f9dcf8b514.png",
     "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "index.html": "/index.html",
-    "main.d66c6724.css.map": "/static/css/main.d66c6724.css.map",
-    "main.ef887779.js.map": "/static/js/main.ef887779.js.map"
+    "main.dd0a625c.css.map": "/static/css/main.dd0a625c.css.map",
+    "main.93bdbee3.js.map": "/static/js/main.93bdbee3.js.map"
   },
   "entrypoints": [
-    "static/css/main.d66c6724.css",
-    "static/js/main.ef887779.js"
+    "static/css/main.dd0a625c.css",
+    "static/js/main.93bdbee3.js"
   ]
 }
